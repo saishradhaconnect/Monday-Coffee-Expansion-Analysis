@@ -30,3 +30,19 @@ The analysis is based on four relational tables representing customer transactio
 - **Development Environment:** MySQL Workbench
 - **Language:** SQL
 - **Techniques Used:** JOINs, Aggregate Functions, GROUP BY, ORDER BY, Common Table Expressions (CTEs), Window Functions, RANK(), DENSE_RANK(), PRIMARY KEY, FOREIGN KEY
+
+## 🧠 SQL Concepts Used
+
+Throughout this project, the following SQL concepts were applied:
+
+- Database & Table Creation
+- PRIMARY KEY & FOREIGN KEY Constraints
+- INNER JOIN & LEFT JOIN
+- Aggregate Functions (`SUM()`, `COUNT()`, `AVG()`)
+- GROUP BY
+- ORDER BY
+- Common Table Expressions (CTEs)
+- Window Functions
+- `RANK()`
+- `DENSE_RANK()`
+- Data Verification (`SHOW TABLES`, `DESC`)
