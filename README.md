@@ -29,4 +29,4 @@ The analysis is based on four relational tables representing customer transactio
 - **Database:** MySQL
 - **Development Environment:** MySQL Workbench
 - **Language:** SQL
-- **Techniques Used:** JOINs, Common Table Expressions (CTEs), Window Functions, Aggregate Functions, GROUP BY, ORDER BY, RANK(), DENSE_RANK(), PRIMARY KEY, FOREIGN KEY
+- **Techniques Used:** JOINs, Aggregate Functions, GROUP BY, ORDER BY, Common Table Expressions (CTEs), Window Functions, RANK(), DENSE_RANK(), PRIMARY KEY, FOREIGN KEY
