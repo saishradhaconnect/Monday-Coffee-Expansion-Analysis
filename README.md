@@ -111,3 +111,115 @@ Monday-Coffee-Expansion-Analysis
 The Entity Relationship (ER) Diagram below illustrates the database structure and the relationships between the tables used in this project.
 
 ![ER Diagram](Images/ER_Diagram.png)
+
+## ⭐ Featured SQL Queries
+
+The following queries demonstrate key SQL concepts used to solve real business problems in this project. They showcase techniques such as **CTEs, Window Functions, JOINs, Aggregations, and business-driven analysis**. The complete SQL script containing all **10 business questions** is available in `Monday_Coffee_Expansion_Analysis.sql`.
+
+### Q2. Total Revenue Generated in Q4 2023
+
+**Business Question**
+
+What is the total sales revenue generated during the fourth quarter (Q4) of 2023?
+
+**Query Output**
+
+![Q2 Total Revenue](Images/Q2_Total_Revenue_Q4_2023.png)
+
+**Business Insight**
+
+The total revenue generated during Q4 2023 provides a snapshot of business performance in the final quarter of the year. This insight helps evaluate seasonal sales trends and supports data-driven planning for future business strategies.
+
+---
+
+## Q5. City Population vs Coffee Consumers
+
+**Business Question**
+
+Which cities have the highest estimated coffee consumers compared to the current customer base?
+
+**Query Output**
+
+### Query (Part 1)
+![Q5 Part 1](Images/Q5_City_Population_vs_Coffee_Consumers_Part1.png)
+
+### Query (Part 2)
+![Q5 Part 2](Images/Q5_City_Population_vs_Coffee_Consumers_Part2.png)
+
+### Query (Part 3)
+![Q5 Part 3](Images/Q5_City_Population_vs_Coffee_Consumers_Part3.png)
+
+### Result
+![Q5 Result](Images/Q5_City_Population_vs_Coffee_Consumers_Result.png)
+
+**Business Insight**
+
+This analysis compares the estimated coffee consumer population with the existing customer base across cities, helping identify untapped markets with strong business potential.
+
+---
+
+## Q6. Top 3 Selling Products Per City
+
+**Business Question**
+
+Which are the top three best-selling coffee products in each city based on total orders?
+
+**Query Output**
+
+![Q6 Top 3 Products](Images/Q6_Top_3_Products_Per_City.png)
+
+**Business Insight**
+
+Using the DENSE_RANK() window function, this query identifies the top-selling products in every city. The results help understand regional customer preferences and support inventory and marketing decisions.
+
+---
+
+## Q9. Month-over-Month Sales Growth
+
+**Business Question**
+
+How has monthly sales changed across different cities?
+
+**Query Output**
+
+### Query (Part 1)
+![Q9 Part 1](Images/Q9_Month_Over_Month_Growth_Part1.png)
+
+### Query (Part 2)
+![Q9 Part 2](Images/Q9_Month_Over_Month_Growth_Part2.png)
+
+### Query (Part 3)
+![Q9 Part 3](Images/Q9_Month_Over_Month_Growth_Part3.png)
+
+### Result
+![Q9 Result](Images/Q9_Month_Over_Month_Growth_result.png)
+
+**Business Insight**
+
+This analysis measures month-over-month sales growth to identify seasonal trends, periods of decline, and business growth opportunities across cities.
+
+---
+
+## Q10. Expansion Recommendation
+
+**Business Question**
+
+Which cities should be prioritized for opening new coffee stores based on revenue, customer base, rental cost, and market potential?
+
+**Query Output**
+
+### Query (Part 1)
+![Q10 Part 1](Images/Q10_Expansion_Recommendation_Part1.png)
+
+### Query (Part 2)
+![Q10 Part 2](Images/Q10_Expansion_Recommendation_Part2.png)
+
+### Query (Part 3)
+![Q10 Part 3](Images/Q10_Expansion_Recommendation_Part3.png)
+
+### Result
+![Q10 Result](Images/Q10_Expansion_Recommendation_result.png)
+
+**Business Insight**
+
+This final business recommendation combines revenue, customer count, rental cost, and estimated market size to identify the most suitable cities for business expansion. Pune, Delhi, and Jaipur emerged as the strongest expansion candidates.
