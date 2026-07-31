@@ -1,1 +1,1 @@
-# Monday-Coffee-Expansion-Project
+# ☕ Monday Coffee Expansion Analysis using SQL
