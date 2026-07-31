@@ -21,7 +21,7 @@ This project analyzes sales data using SQL to provide data-driven recommendation
 
 ## 📂 Dataset
 
-The analysis is based on four relational tables representing customer transactions and business information.
+The analysis uses four relational tables representing customer, product, city, and sales information for Monday Coffee.
 | Table | Description |
 |--------|-------------|
 | city | Contains city name, population and estimated rent. |
@@ -41,9 +41,9 @@ The analysis is based on four relational tables representing customer transactio
 
 ## 🛠️ Tools & Technologies
 
+- **Language:** SQL
 - **Database:** MySQL
 - **Development Environment:** MySQL Workbench
-- **Language:** SQL
 - **Techniques Used:** JOINs, Aggregate Functions, GROUP BY, ORDER BY, Common Table Expressions (CTEs), Window Functions, RANK(), DENSE_RANK(), PRIMARY KEY, FOREIGN KEY
 
 ## 🧠 SQL Concepts Used
@@ -53,9 +53,9 @@ Throughout this project, the following SQL concepts were applied:
 - Database & Table Creation
 - PRIMARY KEY & FOREIGN KEY Constraints
 - INNER JOIN & LEFT JOIN
-- Aggregate Functions (`SUM()`, `COUNT()`, `AVG()`)
 - GROUP BY
 - ORDER BY
+- Aggregate Functions (`SUM()`, `COUNT()`, `AVG()`)
 - Common Table Expressions (CTEs)
 - Window Functions
 - `RANK()`
@@ -110,6 +110,7 @@ Based on the SQL analysis, the recommended cities for opening new coffee stores 
 Monday-Coffee-Expansion-Analysis
 │
 ├── README.md
+├── LICENSE
 ├── Monday_Coffee_Expansion_Analysis.sql
 ├── Dataset/
 │   ├── city.csv
@@ -117,8 +118,8 @@ Monday-Coffee-Expansion-Analysis
 │   ├── products.csv
 │   └── sales.csv
 └── Images/
-    └── ER_Diagram.png
-
+    ├── ER_Diagram.png
+    └── SQL query screenshots
 ```
 
 ## 🗂️ Database Schema
@@ -246,3 +247,4 @@ This final business recommendation combines revenue, customer count, rental cost
 Data Analyst | SQL | Python | Power BI | Excel
 
 Thank you for exploring this project. Feedback and suggestions are always welcome.
+⭐ If you found this project useful, consider giving it a star!
