@@ -13,3 +13,14 @@ Monday Coffee is an online coffee retailer looking to expand its business by ope
 To support this expansion, the company needs to identify cities with high customer demand, strong sales performance, favorable rental costs, and significant market potential.
 
 This project analyzes sales data using SQL to provide data-driven recommendations for selecting the top three cities for expansion.
+
+## 📂 Dataset
+
+The analysis is based on four relational tables representing customer transactions and business information.
+
+| Table | Description |
+|--------|-------------|
+| `city` | Contains city-level information such as population, estimated rent, and city name. |
+| `customers` | Stores customer details and their associated city. |
+| `products` | Contains coffee product information including product name and pricing. |
+| `sales` | Records customer purchase transactions, including product purchased, sale amount, and transaction date. |
