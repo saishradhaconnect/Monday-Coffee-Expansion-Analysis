@@ -1,3 +1,8 @@
+![SQL](https://img.shields.io/badge/SQL-MySQL-blue)
+![Database](https://img.shields.io/badge/Database-MySQL-orange)
+![Status](https://img.shields.io/badge/Project-Completed-brightgreen)
+![License](https://img.shields.io/badge/License-MIT-green)
+
 # ☕ Monday Coffee Expansion Analysis using SQL
 
 ## 📖 Project Overview
