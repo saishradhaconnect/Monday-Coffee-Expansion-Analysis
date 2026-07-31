@@ -69,3 +69,22 @@ This project answers the following business questions using SQL:
 - Jaipur demonstrated a strong customer base with comparatively low rental costs.
 - Coffee product sales varied across cities, highlighting regional customer preferences.
 - Revenue, customer count, rental cost, and estimated coffee consumers were all considered before recommending expansion locations.
+
+## 💡 Business Recommendations
+
+Based on the SQL analysis, the recommended cities for opening new coffee stores are:
+
+### 🥇 Pune
+- Highest overall revenue
+- Low average rent per customer
+- Strong customer spending
+
+### 🥈 Delhi
+- Largest estimated coffee consumer base
+- High customer count
+- Excellent market potential
+
+### 🥉 Jaipur
+- Low operational cost
+- Strong customer base
+- High sales potential
