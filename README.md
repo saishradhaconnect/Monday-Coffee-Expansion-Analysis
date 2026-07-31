@@ -17,6 +17,12 @@ This project analyzes sales data using SQL to provide data-driven recommendation
 ## 📂 Dataset
 
 The analysis is based on four relational tables representing customer transactions and business information.
+| Table | Description |
+|--------|-------------|
+| city | Contains city name, population and estimated rent. |
+| customers | Stores customer information and city mapping. |
+| products | Contains coffee product details. |
+| sales | Stores sales transactions including customer, product, date and amount. |
 
 ## 🛠️ Tools & Technologies
 
