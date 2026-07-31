@@ -29,6 +29,16 @@ The analysis is based on four relational tables representing customer transactio
 | products | Contains coffee product details. |
 | sales | Stores sales transactions including customer, product, date and amount. |
 
+## 🚀 How to Run This Project
+
+1. Clone or download this repository.
+2. Open MySQL Workbench.
+3. Create a new MySQL database.
+4. Import the CSV files from the `Dataset` folder.
+5. Execute the `Monday_Coffee_Expansion_Analysis.sql` script.
+6. Run the SQL queries to reproduce the analysis.
+7. Review the featured SQL queries and business insights in the README.
+
 ## 🛠️ Tools & Technologies
 
 - **Database:** MySQL
