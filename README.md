@@ -88,3 +88,21 @@ Based on the SQL analysis, the recommended cities for opening new coffee stores 
 - Low operational cost
 - Strong customer base
 - High sales potential
+
+## 📁 Repository Structure
+
+```
+Monday-Coffee-Expansion-Analysis
+│
+├── README.md
+├── Monday_Coffee_Expansion_SQL_Project.sql
+├── Dataset/
+│   ├── city.csv
+│   ├── customers.csv
+│   ├── products.csv
+│   └── sales.csv
+└── Images/
+    ├── ER_Diagram.png
+    ├── Revenue_Analysis.png
+    └── Market_Potential.png
+```
