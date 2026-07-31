@@ -95,14 +95,19 @@ Based on the SQL analysis, the recommended cities for opening new coffee stores 
 Monday-Coffee-Expansion-Analysis
 │
 ├── README.md
-├── Monday_Coffee_Expansion_SQL_Project.sql
+├── Monday_Coffee_Expansion_Analysis.sql
 ├── Dataset/
 │   ├── city.csv
 │   ├── customers.csv
 │   ├── products.csv
 │   └── sales.csv
 └── Images/
-    ├── ER_Diagram.png
-    ├── Revenue_Analysis.png
-    └── Market_Potential.png
+    └── ER_Diagram.png
+
 ```
+
+## 🗂️ Database Schema
+
+The Entity Relationship (ER) Diagram below illustrates the database structure and the relationships between the tables used in this project.
+
+![ER Diagram](Images/ER_Diagram.png)
