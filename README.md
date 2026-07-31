@@ -46,3 +46,18 @@ Throughout this project, the following SQL concepts were applied:
 - `RANK()`
 - `DENSE_RANK()`
 - Data Verification (`SHOW TABLES`, `DESC`)
+
+## 📊 Business Questions Solved
+
+This project answers the following business questions using SQL:
+
+1. Estimate the number of coffee consumers in each city.
+2. Calculate the total revenue generated during Q4 2023.
+3. Identify the total sales count for each coffee product.
+4. Determine the average sales amount per customer in each city.
+5. Compare city population with estimated coffee consumers.
+6. Identify the top 3 selling coffee products in each city.
+7. Analyze customer segmentation across cities.
+8. Compare average sales per customer with average rent per customer.
+9. Calculate month-over-month sales growth.
+10. Recommend the top three cities for new coffee store expansion.
