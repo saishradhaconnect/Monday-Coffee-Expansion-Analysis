@@ -223,3 +223,11 @@ Which cities should be prioritized for opening new coffee stores based on revenu
 **Business Insight**
 
 This final business recommendation combines revenue, customer count, rental cost, and estimated market size to identify the most suitable cities for business expansion. Pune, Delhi, and Jaipur emerged as the strongest expansion candidates.
+
+## 👤 Author
+
+**Sai Shradha Mahapatra**
+
+Data Analyst | SQL | Python | Power BI | Excel
+
+Thank you for exploring this project. Feedback and suggestions are always welcome.
