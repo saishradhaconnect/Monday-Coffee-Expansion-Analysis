@@ -21,13 +21,6 @@ The analysis is based on four relational tables representing customer transactio
 ## 🛠️ Tools & Technologies
 
 - **Database:** MySQL
-- **IDE:** MySQL Workbench
+- **Development Environment:** MySQL Workbench
 - **Language:** SQL
-- **Concepts:** JOINs, Aggregate Functions, Common Table Expressions (CTEs), Window Functions, GROUP BY, ORDER BY, CASE Statements
-
-| Table | Description |
-|--------|-------------|
-| `city` | Contains city-level information such as population, estimated rent, and city name. |
-| `customers` | Stores customer details and their associated city. |
-| `products` | Contains coffee product information including product name and pricing. |
-| `sales` | Records customer purchase transactions, including product purchased, sale amount, and transaction date. |
+- **Techniques Used:** JOINs, Common Table Expressions (CTEs), Window Functions, Aggregate Functions, GROUP BY, ORDER BY, RANK(), DENSE_RANK(), PRIMARY KEY, FOREIGN KEY
