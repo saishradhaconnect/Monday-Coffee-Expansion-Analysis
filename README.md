@@ -18,6 +18,13 @@ This project analyzes sales data using SQL to provide data-driven recommendation
 
 The analysis is based on four relational tables representing customer transactions and business information.
 
+## 🛠️ Tools & Technologies
+
+- **Database:** MySQL
+- **IDE:** MySQL Workbench
+- **Language:** SQL
+- **Concepts:** JOINs, Aggregate Functions, Common Table Expressions (CTEs), Window Functions, GROUP BY, ORDER BY, CASE Statements
+
 | Table | Description |
 |--------|-------------|
 | `city` | Contains city-level information such as population, estimated rent, and city name. |
