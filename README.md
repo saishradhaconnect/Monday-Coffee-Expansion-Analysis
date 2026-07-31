@@ -61,3 +61,11 @@ This project answers the following business questions using SQL:
 8. Compare average sales per customer with average rent per customer.
 9. Calculate month-over-month sales growth.
 10. Recommend the top three cities for new coffee store expansion.
+
+## 📈 Key Insights
+
+- Pune generated the highest overall revenue while maintaining relatively low rent per customer, making it an attractive expansion location.
+- Delhi had the largest estimated coffee consumer base, indicating significant market potential.
+- Jaipur demonstrated a strong customer base with comparatively low rental costs.
+- Coffee product sales varied across cities, highlighting regional customer preferences.
+- Revenue, customer count, rental cost, and estimated coffee consumers were all considered before recommending expansion locations.
